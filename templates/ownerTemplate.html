@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <style>
+        body {
+            font-family: 'Verdana', sans-serif;
+            line-height: 1.6;
+            color: #4a4a4a;
+        }
+        h2 {
+            color: #28a745;
+        }
+        p {
+            font-size: 16px;
+        }
+        .property-details {
+            font-size: 15px;
+            color: #555;
+            background-color: #f2f2f2;
+            padding: 20px;
+            border-radius: 8px;
+            margin-top: 20px;
+            border: 1px solid #ddd;
+        }
+        .contact-info {
+            font-size: 15px;
+            margin-top: 10px;
+        }
+        .contact-info strong {
+            color: #333;
+        }
+    </style>
+</head>
+<body>
+    <h2>Hi {{owner_name}},</h2>
+    <p>You have a new inquiry regarding your property:</p>
+    <div class="contact-info">
+        <p><strong>Name:</strong> {{user_name}}</p>
+        <p><strong>Mobile:</strong> {{user_mobile}}</p>
+        <p><strong>Email:</strong> {{user_email}}</p>
+    </div>
+    <div class="property-details">
+        <p>{{property_details}}</p>
+    </div>
+</body>
+</html>
