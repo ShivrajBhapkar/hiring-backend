@@ -9,6 +9,15 @@ Rentify is a user-friendly real estate platform designed to make the rental proc
 - **Frontend Repository:** [https://github.com/ShivrajBhapkar/hiring-frontend] (Front-End Repo)
 - **Backend Repository:** [https://github.com/ShivrajBhapkar/hiring-backend] (BackEnd Repo)
 
+## Demo Credentials
+- **Seller Account:**
+    - Email: shivrajbhapkar1213@gmail.com
+    - Password: Shivraj@2021
+
+- **Buyer Account:**
+    - Email: shivrajofficial102@gmail.com
+    - Password: Shivraj@2021
+    
 ## Setup Instructions
 
 ### Cloning and Setting Up the Backend
@@ -53,14 +62,6 @@ Rentify is a user-friendly real estate platform designed to make the rental proc
     npm run dev
     ```
 
-## Demo Credentials
-- **Seller Account:**
-    - Email: shivrajbhapkar1213@gmail.com
-    - Password: Shivraj@2021
-
-- **Buyer Account:**
-    - Email: shivrajofficial102@gmail.com
-    - Password: Shivraj@2021
 
 ## Technologies Used
 - **Frontend:**
