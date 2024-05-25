@@ -5,7 +5,7 @@ Rentify Platform
 Rentify is a user-friendly real estate platform designed to make the rental process easier for both property owners and tenants. As we slowly return to normalcy post-pandemic, finding the perfect rental home in bustling cities has become increasingly challenging. Rentify steps in to help, offering property owners the tools to showcase their listings and attract ideal tenants, while giving tenants a personalized search experience to find homes that truly meet their needs. By simplifying the rental process and adding a human touch, Rentify aims to bring convenience and satisfaction to everyone involved.
 
 ## Project Links
-- **Deployed Project:** [] (Live Demo)
+- **Deployed Project:** [https://ren8fy.netlify.app/] (Live Demo)
 - **Frontend Repository:** [https://github.com/ShivrajBhapkar/hiring-frontend] (Front-End Repo)
 - **Backend Repository:** [https://github.com/ShivrajBhapkar/hiring-backend] (BackEnd Repo)
 
